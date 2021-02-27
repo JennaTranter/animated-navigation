@@ -1,12 +1,12 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 
 :root {
   --primaryColor: #fff;
   --navColor1: #21292c;
-  --navColor2: #aa3e39;
-  --navColor3: #aa6e39;
-  --navColor4: #236267;
-  --navColor5: #2c8437;
+  --navColor2: #24A689;
+  --navColor3: #3063A9;
+  --navColor4: #FFB437;
+  --navColor5: #FF8437;
 }
 
 html {
@@ -16,7 +16,7 @@ html {
 body {
   margin: 0;
   background: #000;
-
+  font-family: 'Ubuntu', sans-serif;
 }
 
 /* --- Navigation Menu ------------------------------ */
